@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShiftLab2021</string>
+    <string name="viptigo">VipTigo</string>
+    <string name="name_text">Имя</string>
+    <string name="registry_text">Регистрация</string>
+    <string name="date_text">Дата рождения</string>
+    <string name="btn_date_text">ВЫБРАТЬ</string>
+    <string name="btn_registry_text">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="password_text">Придумайте пароль</string>
+    <string name="firstname_text">Фамилия</string>
+    <string name="check_password_text">Повторите пароль</string>
+</resources>
